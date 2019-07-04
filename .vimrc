@@ -26,7 +26,7 @@ Plug 'tomtom/tlib_vim'
 Plug 'MarcWeber/vim-addon-mw-utils'
 Plug 'garbas/vim-snipmate'
 Plug 'honza/vim-snippets'
-"Plug 'Valloric/YouCompleteMe'
+Plug 'Valloric/YouCompleteMe'
 "vim 补全}
 Plug 'amix/open_file_under_cursor.vim' "gf 跳转
 Plug 'terryma/vim-multiple-cursors' "多光标操作
