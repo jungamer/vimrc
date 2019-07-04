@@ -49,7 +49,7 @@ filetype plugin on
 set number
 set relativenumber
 
-colorscheme gruvbox
+" colorscheme gruvbox
 set background=dark    " Setting dark mode
 let g:markdown_fenced_languages = ['html', 'lua', 'python', 'bash=sh']
 " autocmd vimenter * NERDTree
