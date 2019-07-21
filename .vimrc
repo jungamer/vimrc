@@ -134,3 +134,5 @@ map <Leader>c :cclose <cr>
 "source ~/.vim_runtime/my_configs.vim
 "catch
 "endtry
+let g:ycm_global_ycm_extra_conf='~/.ycm_extra_conf.py'
+let g:ycm_confirm_extra_conf = 0
