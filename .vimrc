@@ -36,6 +36,7 @@ Plug 'tpope/vim-commentary' "注释
 Plug 'morhetz/gruvbox' 
 Plug 'flazz/vim-colorschemes'
 "vim配色方案}
+Plug 'zxqfl/tabnine-vim'
 call plug#end()
 
 set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
