@@ -6,18 +6,13 @@ endif
 
 call plug#begin('~/.vim/plugged')
 Plug 'skywind3000/asyncrun.vim'
-Plug 'dyng/ctrlsf.vim'
 Plug 'itchyny/lightline.vim' "状态栏插件
 Plug 'vim-airline/vim-airline' "状态栏
 Plug 'vim-airline/vim-airline-themes'
-Plug 'junegunn/goyo.vim' "排版插件
 Plug 'tpope/vim-fugitive' "git插件
 Plug 'terryma/vim-expand-region' "文本快速选定
-Plug 'vim-scripts/mru.vim' "最近使用过的文件插件
-Plug 'scrooloose/nerdtree' "文件浏览器
 Plug 'w0rp/ale' "语法检测
 Plug 'vim-scripts/bufexplorer.zip' "buff插件
-Plug 'universal-ctags/ctags' "跳转
 Plug 'ludovicchabant/vim-gutentags' "跳转
 Plug 'mhinz/vim-signify' "实时修改状态
 Plug 'Yggdroot/LeaderF', { 'do': './install.sh' } "文件查找
